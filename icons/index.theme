@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Cinema-The-Matrix
+Comment=Folders for the The-Matrix film theme
+Inherits=Yaru-sage-dark,Yaru-dark,Yaru,hicolor
+Directories=scalable/places
+
+[scalable/places]
+Context=Places
+Size=64
+MinSize=8
+MaxSize=512
+Type=Scalable
